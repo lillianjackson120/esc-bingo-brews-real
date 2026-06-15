@@ -60,3 +60,4 @@ Logo paths included:
 - `/assets/riviera.png`
 - `/assets/fairhope-brewing.webp`
 - `/assets/beer-break.jpg`
+redeploy 
